@@ -1,6 +1,6 @@
 {
-    "name": "filibot",
-    "short_name": "filibot",
+    "name": "appname",
+    "short_name": "appname",
     "icons": [{
         "src": "./img/icons/android-chrome-192x192.png",
         "sizes": "192x192",
